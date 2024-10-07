@@ -1,2 +1,2 @@
-# Analise-do-Titanic
-Repositorio com os códigos da análise de bases do Titanic
+# Analises
+Codigos de análises de bases de dados abertos na internet em liguagem Python e R
